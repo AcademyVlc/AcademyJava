@@ -1,0 +1,14 @@
+MOD;Canotta;6;0.5
+MOD;Giacca;10;1.2
+
+COL;Rosa
+COL;Nero
+
+MAT;Cotone;3
+MAT;Pelle;8
+
+CAP;Capo1;Canotta;Cotone;Rosa
+CAP;Capo2;Giacca;Pelle;Nero
+
+COLL;Capo1;Capo2
+
