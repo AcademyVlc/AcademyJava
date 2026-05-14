@@ -1,4 +1,4 @@
-package com.vlc.academy.EserciziMirati.EserciziChat.LivelloBase;
+package com.vlc.academy.esercizimirati.EserciziChat.LivelloBase;
 
 import java.util.Arrays;
 import java.util.List;

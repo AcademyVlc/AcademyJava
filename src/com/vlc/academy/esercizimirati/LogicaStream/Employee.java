@@ -1,4 +1,4 @@
-package com.vlc.academy.EserciziMirati.LogicaStream;
+package com.vlc.academy.esercizimirati.LogicaStream;
 
 import java.time.LocalDate;
 
